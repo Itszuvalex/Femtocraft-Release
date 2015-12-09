@@ -3,10 +3,11 @@
   <groupId>com.itszuvalex.femtocraft</groupId>
   <artifactId>Femtocraft</artifactId>
   <versioning>
-    <release>1.7.10-0.1.0-local-dev</release>
+    <release>1.7.10-0.1.0-95-dev</release>
     <versions>
       <version>1.7.10-0.1.0-local-dev</version>
+      <version>1.7.10-0.1.0-95-dev</version>
     </versions>
-    <lastUpdated>20151004223334</lastUpdated>
+    <lastUpdated>20151209092121</lastUpdated>
   </versioning>
 </metadata>
